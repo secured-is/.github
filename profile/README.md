@@ -1,2 +1,2 @@
- # secured.is
-We are a purely educational non-profit project aiming at raising awareness and teach for current and future individuals, about core concepts of software/cybersecurity, social engineering and such.
+ ## Secured.is
+An educational non-profit consortium leading researches to share, teach and raise awereness around the privacy spectrum for current and future individuals entering the current era.
